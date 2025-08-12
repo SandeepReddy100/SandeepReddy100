@@ -133,7 +133,7 @@ Achieved academic excellence with perfect scores, demonstrating consistent dedic
 ## 💻 Coding Profiles
 
 <div align="center">
-  <a href="https://leetcode.com/SandeepReddy100">
+  <a href="https://leetcode.com/u/sandeep-reddy-08/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
   <a href="https://www.geeksforgeeks.org/user/23951arazy/">
