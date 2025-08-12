@@ -136,8 +136,8 @@ Achieved academic excellence with perfect scores, demonstrating consistent dedic
   <a href="https://leetcode.com/SandeepReddy100">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/SandeepReddy100">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  <a href="https://www.geeksforgeeks.org/user/23951arazy/">
+    <img src="https://www.geeksforgeeks.org/user/23951arazy/"/>
   </a>
 </div>
 
